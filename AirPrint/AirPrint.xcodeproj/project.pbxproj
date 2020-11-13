@@ -20,6 +20,7 @@
 		E77A4B2D255E79A800C28371 /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = E77A4B2B255E79A800C28371 /* 111.png */; };
 		E77A4B2E255E79A800C28371 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = E77A4B2C255E79A800C28371 /* background.png */; };
 		E77A4B33255E82F700C28371 /* 222.docx in Resources */ = {isa = PBXBuildFile; fileRef = E77A4B32255E82F700C28371 /* 222.docx */; };
+		E77A4B38255E899C00C28371 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E77A4B37255E899C00C28371 /* WebViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,8 @@
 		E77A4B2B255E79A800C28371 /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
 		E77A4B2C255E79A800C28371 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		E77A4B32255E82F700C28371 /* 222.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = 222.docx; sourceTree = "<group>"; };
+		E77A4B36255E899C00C28371 /* WebViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		E77A4B37255E899C00C28371 /* WebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 				E77A4B09255E6BF500C28371 /* SceneDelegate.m */,
 				E77A4B0B255E6BF500C28371 /* ViewController.h */,
 				E77A4B0C255E6BF500C28371 /* ViewController.m */,
+				E77A4B36255E899C00C28371 /* WebViewController.h */,
+				E77A4B37255E899C00C28371 /* WebViewController.m */,
 				E77A4B32255E82F700C28371 /* 222.docx */,
 				E77A4B25255E76A900C28371 /* pdf1.pdf */,
 				E77A4B24255E76A900C28371 /* pdf2.pdf */,
@@ -170,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E77A4B0D255E6BF500C28371 /* ViewController.m in Sources */,
+				E77A4B38255E899C00C28371 /* WebViewController.m in Sources */,
 				E77A4B07255E6BF500C28371 /* AppDelegate.m in Sources */,
 				E77A4B18255E6BF700C28371 /* main.m in Sources */,
 				E77A4B0A255E6BF500C28371 /* SceneDelegate.m in Sources */,
